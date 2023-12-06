@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/KAPP/static/css/main.486a3587.chunk.css",
+    "main.js": "/KAPP/static/js/main.0285e600.chunk.js",
+    "main.js.map": "/KAPP/static/js/main.0285e600.chunk.js.map",
+    "runtime-main.js": "/KAPP/static/js/runtime-main.26290d71.js",
+    "runtime-main.js.map": "/KAPP/static/js/runtime-main.26290d71.js.map",
+    "static/js/2.26f50b05.chunk.js": "/KAPP/static/js/2.26f50b05.chunk.js",
+    "static/js/2.26f50b05.chunk.js.map": "/KAPP/static/js/2.26f50b05.chunk.js.map",
+    "static/js/3.3c349eb9.chunk.js": "/KAPP/static/js/3.3c349eb9.chunk.js",
+    "static/js/3.3c349eb9.chunk.js.map": "/KAPP/static/js/3.3c349eb9.chunk.js.map",
+    "index.html": "/KAPP/index.html",
+    "static/css/main.486a3587.chunk.css.map": "/KAPP/static/css/main.486a3587.chunk.css.map",
+    "static/js/2.26f50b05.chunk.js.LICENSE.txt": "/KAPP/static/js/2.26f50b05.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/KAPP/static/media/TimKid.8d31aefa.ttf",
+    "static/media/robot-appli.9d9a8d49.svg": "/KAPP/static/media/robot-appli.9d9a8d49.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26290d71.js",
+    "static/js/2.26f50b05.chunk.js",
+    "static/css/main.486a3587.chunk.css",
+    "static/js/main.0285e600.chunk.js"
+  ]
+}
